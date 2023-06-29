@@ -1,0 +1,38 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+header {
+  background-color: #c4cecd;
+  color: black;
+  padding: 20px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
+h1,
+h2 {
+  color: inherit;
+}
+
+p,
+li {
+  color: #777;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0px;
+  background-color: white;
+  border-radius: 20px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.experience {
+  margin-bottom: 20px;
+}
